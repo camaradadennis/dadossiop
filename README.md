@@ -30,7 +30,7 @@ python dadossiop.py arquivo_contendo_a_query > output.csv
 A documentação sobre o SIOP pode ser encontrada em
 https://orcamento.dados.gov.br
 
-Para utilizar, basta copiar o módulo e o certificado do SIOP para a pasta do seu projeto.
+Para utilizar, basta copiar o [módulo](https://github.com/camaradadennis/dadossiop/blob/main/dadossiop.py) e o [certificado do SIOP](https://github.com/camaradadennis/dadossiop/blob/main/siop-planejamento-gov-br.pem) para a pasta do seu projeto.
 
 ## Dependências
 - [rdflib](https://github.com/RDFLib/rdflib)
